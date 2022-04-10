@@ -9,6 +9,10 @@ mkdir Python -v
 mkdir Bash -v
 cd ~ -v
 
+echo "Attempting to download programs..."
+
+sudo dnf install vim -v
+
 echo "Attempting to edit .bashrc..."
 
 #This section adds the following lines of code to the .bashrc file.
