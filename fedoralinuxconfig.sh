@@ -44,6 +44,7 @@ sudo dnf install mpv -v
 sudo dnf install ffmpeg -v
 sudo dnf install python3 -v
 sudo dnf install python2 -v
+sudo dnf install neofetch -v
 
 echo "Attempting to download GitHub programs..."
 
